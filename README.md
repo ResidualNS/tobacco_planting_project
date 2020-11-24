@@ -4,10 +4,16 @@
 - The project used U-net network for semantic segmentation and YOLOv3 network for target detection.
 
 #Install
-- python 3.0+
+- python 3.7
+- numpy
 - opencv_python
 - matplotlib
-- numpy
-# 
-Mosca data augmentation：
+- torch 1.4.0
+- torchvision 0.5.0
+- tensorboard
+
+# Mosca data augmentation：
 ![Image text](https://raw.githubusercontent.com/ResidualNS/edge_detector/master/image-folder/train_batch0.jpg)
+
+# Visualization:
+![Image text](https://raw.githubusercontent.com/ResidualNS/edge_detector/master/image-folder/train_batch0_gt.jpg)
