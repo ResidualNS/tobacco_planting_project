@@ -1,0 +1,10 @@
+window_sizes = [416, 416]  # 切块大小
+window_steps = [300, 300]  # 滑块步长
+tk_xmls_file = "tk_xmls"
+tk_pngs_file = "tk_pngs"
+sub_imgs_file = "sub_imgs"
+sub_xmls_file = "sub_xmls"
+threshold = 0.4
+tudi_list = [(146, 208, 221), (170, 226, 234), (63, 124, 130), (124, 177, 199)]
+not_labels_list = ["suspected", "ruomiao"]
+labels_list = ["yanmiao"]
