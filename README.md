@@ -3,14 +3,14 @@
 - The data collected are remote sensing images.
 - The project used U-net network for semantic segmentation and YOLOv3 network for target detection.
 
-#Install
+# Install
 - python 3.7
-- numpy
-- opencv_python
-- matplotlib
+- numpy 1.18.2
+- opencv_python 4.1.2.30
+- matplotlib 3.2.1
 - torch 1.4.0
 - torchvision 0.5.0
-- tensorboard
+- tensorboard 2.2.0
 
 # Mosca data augmentation：
 ![Image text](https://raw.githubusercontent.com/ResidualNS/edge_detector/master/image-folder/train_batch0.jpg)
